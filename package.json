@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.8.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "ical.js": "^2.1.0",
+    "node-fetch": "^2.7.0"
+  },
+  "type": "module",
+  "name": "server-proxi",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "alejandro_castillo",
+  "license": "ISC",
+  "description": ""
+  
+}
